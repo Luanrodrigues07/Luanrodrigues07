@@ -5,7 +5,7 @@
     <a href="https://www.linkedin.com/in/luan-rodrigues-823570220/">Luan Rodrigues😀</a> and I'm Frontend Developer, 
   </p>
   
-  <img src="https://media.tenor.com/CpJSkREXARYAAAAd/computer.gif" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
+  <img src="image.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
   <p>
     <strong>
     📧 Message me!
