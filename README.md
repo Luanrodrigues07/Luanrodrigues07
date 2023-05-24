@@ -2,7 +2,7 @@
   
   <h1 align="center">
     Hi, I'm 
-    <a href="https://www.linkedin.com/in/luan-rodrigues-823570220/">Luan Rodrigues 😃️</a>
+    <a href="https://www.linkedin.com/in/luan-rodrigues-823570220/">Luan Rodrigues and I'm Frontend Developer</a>
   </h1>
   
   <p align="center">
