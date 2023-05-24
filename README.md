@@ -2,11 +2,11 @@
   
   <h1 align="center">
     Hi, I'm 
-    <a href="https://www.linkedin.com/in/luan-rodrigues-823570220/">Luan Rodrigues and I'm Frontend Developer</a>
+    <a href="https://www.linkedin.com/in/luan-rodrigues-823570220/">Luan Rodrigues😀</a>
   </h1>
   
   <p align="center">
-    I'm a systems support analyst, I've been discovering this world of incredible technologies, and I'm falling more and more in love with this profession. I consider
+    I'm Frontend Developer, I've been discovering this world of incredible technologies, and I'm falling more and more in love with this profession. I consider
     myself a creative, hardworking and interested person. I always try to keep up to date with the latest technologies on the market, I always try to do the best I can
     in all my work with calm and dedication.
 
