@@ -7,7 +7,7 @@
   🌎 Hi, my name is Luan Rodrigues. I'm a <strong>Web Developer.</strong>
 </p>
  <p align="left">
-   🧠 Skills: <strong>HTML, Css, JavaScript, ReactJS e SQL.</strong>
+   🧠 Skills: <strong>HTML, Css, JavaScript, ReactJS and SQL.</strong>
 </p>
  
 </div>
