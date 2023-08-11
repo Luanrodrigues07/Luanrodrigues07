@@ -12,7 +12,7 @@
  
 </div>
   <p align="left">
-    <strong>💼 Tools: VSCode, Figma, Git e GitHub</strong><br>
+    <strong>💼 Tools: VSCode, Figma, Tailwind CSS, Git e GitHub</strong><br>
   </p>
   
 <div align="">
