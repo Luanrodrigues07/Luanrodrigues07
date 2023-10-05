@@ -7,12 +7,12 @@
   🌎 Hi, my name is Luan Rodrigues. I'm a <strong>Web Developer.</strong>
 </p>
  <p align="left">
-   🧠 Skills: <strong>HTML, Css, JavaScript, ReactJS and SQL.</strong>
+   🧠 Skills: <strong>HTML, Css, JavaScript, ReactJS, NextJS and SQL.</strong>
 </p>
  
 </div>
   <p align="left">
-    <strong>💼 Tools: VSCode, Figma, Tailwind CSS, Git e GitHub</strong><br>
+    <strong>💼 Tools: VSCode, Figma, Tailwind CSS, Styled Components, Git e GitHub</strong><br>
   </p>
   
 <div align="">
