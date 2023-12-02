@@ -4,7 +4,7 @@
 <br/>
 <br/>
 <p align="left"> 
-  🌎 Hi, my name is Luan Rodrigues. I'm a <strong>Web Developer.</strong>
+  🌎 Hi, my name is Luan Rodrigues. I'm a <strong>Front-End Developer.</strong>
 </p>
  <p align="left">
    🧠 Skills: <strong>HTML, Css, JavaScript, ReactJS, NextJS and SQL.</strong>
